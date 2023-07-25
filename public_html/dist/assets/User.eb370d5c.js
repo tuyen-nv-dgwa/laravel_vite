@@ -1,0 +1,1 @@
+import{o as p,c as s,t as e}from"./app.bd3506b8.js";const t={class:"text-xl px-3 py-2 bg-purple-200 text-purple-900 shadow"},a={expose:[],props:["user"],setup:a=>(o,r)=>(p(),s("h2",t,e(a.user.name),1))};export default a;

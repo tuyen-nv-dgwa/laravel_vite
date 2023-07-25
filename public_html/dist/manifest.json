@@ -1,0 +1,66 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app.bd3506b8.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/layouts/Main.vue",
+      "resources/js/layouts/Narrow.vue",
+      "resources/js/pages/About.vue",
+      "resources/js/pages/Users.vue",
+      "resources/js/components/User.vue",
+      "resources/js/components/Users.vue"
+    ],
+    "css": [
+      "assets/app.4ea242fe.css"
+    ]
+  },
+  "resources/js/layouts/Main.vue": {
+    "file": "assets/Main.bc8fb225.js",
+    "src": "resources/js/layouts/Main.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/layouts/Narrow.vue": {
+    "file": "assets/Narrow.8f08f105.js",
+    "src": "resources/js/layouts/Narrow.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/pages/About.vue": {
+    "file": "assets/About.aabf87a5.js",
+    "src": "resources/js/pages/About.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/pages/Users.vue": {
+    "file": "assets/Users.544b695d.js",
+    "src": "resources/js/pages/Users.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/User.vue": {
+    "file": "assets/User.eb370d5c.js",
+    "src": "resources/js/components/User.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/components/Users.vue": {
+    "file": "assets/Users.ebf71dec.js",
+    "src": "resources/js/components/Users.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  }
+}
